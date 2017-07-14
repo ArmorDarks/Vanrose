@@ -1,0 +1,20 @@
+{
+  "name": "vanrose",
+  "version": "0.1.0",
+  "description": "Supplementary tool for Vandoc",
+  "twitter": "@armordarks",
+  "homepage": "https://github.com/ArmorDarks/Vanrose",
+  "author": "Serj Lavrin (https://github.com/ArmorDarks)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ArmorDarks/Vanrose.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ArmorDarks/Vanrose/issues"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "engines": {
+    "node": ">=6.0.0"
+  }
+}
